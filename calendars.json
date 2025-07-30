@@ -1,0 +1,8 @@
+{
+  "source_calendar_ids": [
+    "primary",
+    "work.email@example.com",
+    "abcdef123456@group.calendar.google.com"
+  ],
+  "target_calendar_name": "Consolidated View"
+}
