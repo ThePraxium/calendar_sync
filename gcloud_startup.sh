@@ -73,7 +73,6 @@ else
     echo "6. Click 'CREATE'. A window will appear with your client ID and secret."
     echo "7. Click the 'DOWNLOAD JSON' button on that screen (or from the credentials list)."
     echo "8. Save the downloaded file as 'credentials.json' in this directory:"
-    echo "   /Users/cjbw/Documents/CODE/calendar_sync/"
     echo
     echo "After you have downloaded the file, you can run 'python main.py' to start the application."
     log_resource "oauth_clients" "Desktop client (manual creation required)"
