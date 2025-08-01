@@ -1,18 +1,18 @@
 {
   "source_calendars": [
     {
-      "calendar_id": "cjbw@google.com",
-      "display_name": "Colton - Google",
+      "calendar_id": "Example EMAIL 1",
+      "display_name": "Example EMAIL 1 - context",
       "color": "eucalyptus"
     },
     {
-      "calendar_id": "the.colton.williams@gmail.com",
-      "display_name": "Colton",
+      "calendar_id": "Example EMAIL 2",
+      "display_name": "Example EMAIL 2 - context",
       "color": "grape"
     },
     {
-      "calendar_id": "saren.bennett@gmail.com",
-      "display_name": "Saren",
+      "calendar_id": "Example EMAIL 3",
+      "display_name": "Example EMAIL 3 - context",
       "color": "cobalt"
     }
   ],
