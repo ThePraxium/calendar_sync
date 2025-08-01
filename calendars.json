@@ -1,8 +1,20 @@
 {
-  "source_calendar_ids": [
-    "primary",
-    "work.email@example.com",
-    "abcdef123456@group.calendar.google.com"
+  "source_calendars": [
+    {
+      "calendar_id": "cjbw@google.com",
+      "display_name": "Colton - Google",
+      "color": "eucalyptus"
+    },
+    {
+      "calendar_id": "the.colton.williams@gmail.com",
+      "display_name": "Colton",
+      "color": "grape"
+    },
+    {
+      "calendar_id": "saren.bennett@gmail.com",
+      "display_name": "Saren",
+      "color": "cobalt"
+    }
   ],
   "target_calendar_name": "Consolidated View"
 }
